@@ -2,17 +2,39 @@
 
 ## I`m Pedro Lucas Ferro 🙋‍♂️
 
+
 - I live in Brazil 🟢🟡
 - I’m currently learning 📚
 
+<img align="right" width="330px" src="https://static.wikia.nocookie.net/fallout_gamepedia/images/b/b7/Close_to_Metal.gif/revision/latest/scale-to-width-down/320?cb=20180627024031">
 
 
 
-## Skills
+
+
+
+
+### Skills
 
 <img height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></img>
 <img height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></img>
 <img height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
+
+
+### I want to learn
+
+<img height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
+<img height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></img>
+
+### Contact
+
+<img height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></img>
+
+
+
+
+
+
 
 
 
