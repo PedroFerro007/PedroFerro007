@@ -3,10 +3,15 @@
 ## I`m Pedro Lucas Ferro 🙋‍♂️
 
 
+
+
 - I live in Brazil 🟢🟡
+
+<img align="right" width="400px" src="https://static.wikia.nocookie.net/fallout_gamepedia/images/b/b7/Close_to_Metal.gif/revision/latest/scale-to-width-down/320?cb=20180627024031">
+
 - I’m currently learning 📚
 
-<img align="right" width="330px" src="https://static.wikia.nocookie.net/fallout_gamepedia/images/b/b7/Close_to_Metal.gif/revision/latest/scale-to-width-down/320?cb=20180627024031">
+
 
 
 
